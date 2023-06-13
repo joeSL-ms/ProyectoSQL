@@ -28,3 +28,6 @@ la media que tiene valorado los actores por el total de peliculas que han hecho 
 un inventario sobre las peliculas.Para la facil lectura del consumidor.
 
 De ahi tres querys cuyas funciones son rellenar los datos para que la empresa lleve un orden sobre clientes, staff y la renta como tal, conjunto de estas dos tabalas. Que una vez rellenada se podra usar para otras muchas funciones
+
+
+![image](https://github.com/joeSL-ms/ProyectoSQL/assets/127346073/94d8b458-71f1-4ac3-a552-9d5e2e0178ea)
